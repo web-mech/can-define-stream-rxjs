@@ -11,6 +11,8 @@ canDefineStreamRxjs([DefineMap])
 ### Example
 
 ```
+var canDefineStreamRx = require('can-define-stream-rxjs');
+
 var MyMap = DefineMap.extend({
 	foo: 'string',
 	bar: { type: 'string', value: 'bar' },
