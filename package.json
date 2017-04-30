@@ -1,0 +1,46 @@
+{
+  "name": "can-define-stream-rxjs",
+  "version": "0.1.0",
+  "description": "Define properties with streams on can-define types.",
+  "main": "can-define-stream-rxjs",
+  "scripts": {
+    "test": "ava *.test.js",
+    "release": "npm test && standard-version"
+  },
+  "keywords": [
+    "canjs",
+    "canjs-plugin",
+    "can-stream",
+    "can-define",
+    "can-define-stream",
+    "can-stream-x",
+    "frp",
+    "stream",
+    "rxjs"
+  ],
+  "author": "Michael Price <webmech@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "can-define-stream": "^0.1.0",
+    "can-stream-rxjs": "^0.1.3",
+    "can-util": "^3.5.1"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "can-define": "^1.0.17",
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.0.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-config-airbnb-base": "^11.1.3",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "standard-version": "^4.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
