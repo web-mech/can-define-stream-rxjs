@@ -19,6 +19,14 @@
     "rxjs"
   ],
   "author": "Michael Price <webmech@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/web-mech/can-define-stream-rxjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/web-mech/can-define-stream-rxjs.git"
+  },
+  "homepage": "https://github.com/web-mech/can-define-stream-rxjs",
   "license": "MIT",
   "dependencies": {
     "can-define-stream": "^0.1.0",
