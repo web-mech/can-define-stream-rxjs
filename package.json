@@ -1,6 +1,6 @@
 {
   "name": "can-define-stream-rxjs",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Define properties with streams on can-define types.",
   "main": "can-define-stream-rxjs",
   "scripts": {
