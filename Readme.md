@@ -1,5 +1,7 @@
 # can-define-stream-rxjs
 
+[![Build Status](https://travis-ci.org/web-mech/can-define-stream-rxjs.svg?branch=master)](https://travis-ci.org/web-mech/can-define-stream-rxjs)
+
 Define properties with streams on can-define types.
 
 ## Syntax
